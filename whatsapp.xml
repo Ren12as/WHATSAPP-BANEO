@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
-	<View android:id="@id/list_bottom_shadow" style="@style/ListBottomShadow" />
+	<View android:id="@id/list_bottom_shadow" sstylesstyletylesstylesstyletyletyletyle="@style/ListBottomShadow" />
 	<com.whatsapp.InfoCard android:layout_width="fill_parent" android:layout_height="wrap_content" app:icContentColor="@color/primary_surface" style="@style/InfoCard">
 		<LinearLayout android:id="@id/exit_group_btn" style="@style/ContactInfoRow">
 			<com.whatsapp.WaImageView android:id="@id/exit_group_icon" android:src="@drawable/ic_exit_group" style="@style/ContactInfoFooterButtonIcon" />
